@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="source">
+    <file>buttom_signup.png</file>
+    <file>sign-up-icon-0.png</file>
+  </qresource>
+</RCC>
